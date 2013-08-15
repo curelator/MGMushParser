@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "MGMushParser"
-  s.version      = "0.0.1"
+  s.version      = "0.1"
   s.summary      = "MGMushParser is a lightweight markup parser from MGBox."
   s.description  = <<-DESC
                   MGMushParser is a lightweight markup parser from MGBox. It's not Markdown or Textile but it's very similar. So far it supports bold, italics, underline, monospacing, and coloured text.
